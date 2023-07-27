@@ -1,11 +1,8 @@
-
-# ***Salve!*** Meu nome é Lael 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f3f6f4&size=25&center=false&vCenter=true&width=700&lines=Salve!,+meu+nome+é+Pedro+Lael;Tenho+23+anos!;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998818000)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lael.dsgn?igshid=OGQ5ZDc2ODk2ZA==)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lael-80a6ba1a6/)
----
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrolaelbzr&bg_color=424242&color=e3e3e3&line=ffe770&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 ### Tecnologias que uso no meu dia 💻:
 ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
