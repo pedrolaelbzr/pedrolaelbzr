@@ -1,4 +1,4 @@
-name: Generate Datas
+MAINname: Generate Datas
 
 on:
   schedule: # execute every 12 hours
