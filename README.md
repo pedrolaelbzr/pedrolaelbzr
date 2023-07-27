@@ -5,6 +5,8 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lael.dsgn?igshid=OGQ5ZDc2ODk2ZA==)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lael-80a6ba1a6/)
 ---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrolaelbzr&bg_color=424242&color=e3e3e3&line=ffe770&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 ### Tecnologias que uso no meu dia 💻:
 ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -15,3 +17,4 @@
 [![Blog](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/4hQd35H1Os8i7u7DuLFWcV?si=buJo2ZA6RV2aMWDWRP4YGQ)
 
 ![Snake animation](https://github.com/pedrolaelbzr/pedrolaelbzr/blob/output/github-contribution-grid-snake.svg)
+
