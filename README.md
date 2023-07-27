@@ -13,3 +13,5 @@
 ---
 #### Já dá uma sacada nos meus sons 🎵:
 [![Blog](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/4hQd35H1Os8i7u7DuLFWcV?si=buJo2ZA6RV2aMWDWRP4YGQ)
+
+![Snake animation](https://github.com/pedrolaelbzr/pedrolaelbzr/blob/output/github-contribution-grid-snake.svg)
